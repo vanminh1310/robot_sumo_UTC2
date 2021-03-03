@@ -7,7 +7,8 @@
 - Arduino IDE | [Windows](https://www.microsoft.com/store/apps/9nblggh4rsd8?ocid=badge) | [MacOS](https://downloads.arduino.cc/arduino-1.8.13-macosx.zip) | [Linux](https://downloads.arduino.cc/arduino-1.8.13-linux32.tar.xz)
 - Phần mềm giải nén tập tin * .zip
 # Sơ đồ kết nối phần cứng .
- - Có thể xem ở file "sơ đồ mạch .pdf"
+ - Có thể xem ở file [sơ đồ mạch .pdf](https://github.com/vanminh1310/robot_sumo_UTC2/blob/main/s%C6%A1%20%C4%91%E1%BB%93%20m%E1%BA%A1ch%20.pdf)
+ - Xem linh kiện mô hình [tại đây](https://iot-joy.netlify.app/lk.html)
  <img src="https://github.com/vanminh1310/robot_sumo_UTC2/blob/main/s2_sumo/sumo_bb.png">
 
 # Cài đặt và thiết lập  
