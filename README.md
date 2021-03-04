@@ -68,6 +68,14 @@ https://www.youtube.com/watch?v=Y2vIJftWwnI
 
 ![image](https://user-images.githubusercontent.com/53778428/109666206-8ec29500-7ba1-11eb-9ef9-677565367ef5.png)
 
+**Một số hình ảnh về robot**
+![image](https://user-images.githubusercontent.com/53778428/109902408-03462280-7ccd-11eb-87af-325c3cbdb69c.png)
+![image](https://user-images.githubusercontent.com/53778428/109902514-24a70e80-7ccd-11eb-8487-4579263ce33f.png)
+![image](https://user-images.githubusercontent.com/53778428/109902542-2a9cef80-7ccd-11eb-9f36-7f8217f709b9.png)
+![image](https://user-images.githubusercontent.com/53778428/109902555-325c9400-7ccd-11eb-8697-c564075f192c.png)
+![image](https://user-images.githubusercontent.com/53778428/109902577-3983a200-7ccd-11eb-9e01-86f91e1f040e.png)
+
+
 # Built With
 
 # Contributors
