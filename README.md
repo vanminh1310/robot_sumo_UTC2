@@ -18,7 +18,7 @@
 
 3. Giải nén file robot_sumo_UTC2-main.zip vừa tải về
 
-4. Khởi động Arduino IDE chọn File >> Open và trỏ đường dẫn đến file s2_sumo.ino trong thư mụcrobot_sumo_UTC2-main vừa giải nén
+4. Khởi động Arduino IDE chọn File >> Open và trỏ đường dẫn đến file s2_sumo.ino trong thư mục robot_sumo_UTC2-main vừa giải nén
 
 5. Cắm cáp kết nối ArduinoUno và PC
 
@@ -51,6 +51,8 @@
 - Code trên mang tính tham khảo các bạn có thể sáng tạo thêm nhiều trường hợp hay nữa nhé 😁😁
 
 # Video hướng dẫn 
+![image](https://user-images.githubusercontent.com/53778428/109901823-3f2cb800-7ccc-11eb-8032-c7fbca6fab1e.png)
+
 https://www.youtube.com/watch?v=IfP8a8gpUGI
 
 # Gallery
