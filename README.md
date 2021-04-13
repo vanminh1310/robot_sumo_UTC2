@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=Y2vIJftWwnI
 # Built With
 
 # Contributors
- - Tạ Văn Minh [Facebook](https://www.facebook.com/taminh1310) [Email](taminh39@gmail.com)
+ - Tạ Văn Minh [Facebook](https://www.facebook.com/vanminh1310) [Email](taminh39@gmail.com)
 # Ban tổ chức 
 Trường Đại học Giao Thông Vận Tải - Phân hiệu tại TP. Hồ Chí Minh | Mã tuyển sinh: GSA
 
